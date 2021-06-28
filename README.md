@@ -3,6 +3,10 @@
 </h4>
 <br>
 
+<img src="./screenshot.png" alt="My cool screenshot"/>
+<br>
+<br>
+
 <p align="center">
 <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/mopanc/covid19-tracker?color=FF5E84">
 <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/Mopanc/covid19-tracker?color=FF5E84">
