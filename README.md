@@ -52,8 +52,6 @@ npm run start
 ```
 
 <br>
-<br>
-<hr>
 <br><br>
 
 
