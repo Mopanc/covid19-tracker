@@ -52,7 +52,12 @@ npm run start
 ```
 
 <br>
+<<<<<<< HEAD
 <br><br>
+=======
+<hr>
+<br>
+>>>>>>> 753a68e91fff7bb4eaebcf6bab9dc4b6853eebde
 
 
 
